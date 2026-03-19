@@ -1,1 +1,11 @@
+*/
 
+/*
+body { font-family: 'Lora', serif; margin:0; }
+nav { display:flex; justify-content:space-between; padding:1rem 2rem; }
+.hero { padding:5rem 2rem; max-width:900px; }
+.btn { border:1px solid #b8892a; padding:0.5rem 1rem; margin:0.3rem; text-decoration:none; }
+.quick { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1rem; padding:2rem; }
+.card { border:1px solid #ddd; padding:1rem; }
+.section { padding:3rem 2rem; max-width:900px; }
+*/
